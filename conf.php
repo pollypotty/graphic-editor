@@ -1,0 +1,11 @@
+<?php
+
+$messages = [
+    'errors' => [
+
+    ],
+
+    'constants' => [
+
+    ],
+];

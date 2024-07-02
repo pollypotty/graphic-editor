@@ -1,0 +1,15 @@
+{
+    "name": "anna-ladanyi/graphic-editor-ladanyi-anna",
+    "description": "graphic editor",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/",
+            "app\\": "app/"
+        }
+    },
+    "require": {
+      "ext-pdo": "*",
+        "ext-gd": "*",
+      "ext-fileinfo": "*"
+    }
+}
